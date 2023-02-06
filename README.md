@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mostafizur Rahman
+### Hello 👋, I'm Mostafizur Rahman
 #### Junior Frontend Developer
 ![Junior Frontend Developer](https://i.ibb.co/DDGh0MK/image.png)
 
