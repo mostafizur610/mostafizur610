@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Mostafizur Rahman
 #### Full Stack Software Engineer
-![Full Stack Software Engineer](https://i.ibb.co/DDGh0MK/image.png)
+![Full Stack Software Engineer](https://i.ibb.co.com/fd84t2GC/full-stack-web-development.jpg)
 
 Working as a full-stack software engineer over two years of experience, Specialized in building efficient, large-scale web-based systems. My expertise spans across both frontend and backend development using React, Next.js, Node.js, Nest.js, PostgreSQL and MongoDB. I have hands-on experience developing scalable Microservices and Monolithic architectures, always adhering to clean code principles and best practices. I am now seeking a new software engineering role where I can embrace fresh challenges, enhance my technical
 expertise, and make meaningful contributions to the company's growth.
